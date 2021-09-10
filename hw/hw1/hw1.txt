@@ -1,0 +1,16 @@
+2. Types of VCS:
+	i) Local VCS
+	ii)  Centralized VCS (CVCS)
+	iii)  Distributed VCS (DVCS)
+
+3. Distributed VCS (DVCS) is the most popular class of version control system because each client has an entire copy of central database at their own local storage device. Even if central server burns, the local repository has the clone of the project database.
+
+
+4. a) fetch the data from a remote repository and immediately update the local repository.
+   b) it displays the changes and the state of working directory.
+   c) add all the updated files in the current directory.
+   d) it takes the snapshot of the staged changes and commit to the project.
+   e) it upload local resposity data to the remote repository.
+   
+   
+
