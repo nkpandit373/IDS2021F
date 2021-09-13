@@ -1,0 +1,29 @@
+1) git help –a
+2) Experiment, Theory, Computation, Data science
+3) i) Working Directory – files is modified and have no record of the changes.
+  ii) Staging Area – files can be modified and committed too.
+  iii) .git directory (Repository) – After being committed in staging area, files can be extracted from here.
+
+4) VCS is a system that helps keeping records of different versions i.e. changes to file(s) with time, and helps in retaining it.
+5) i) predictive computing
+  ii) numerical simulation
+  iii) data-driven discovery via machine learning, deep learning
+  iv) 
+6) i) Users will have an entire copy of the central database at their own local storage device.
+  ii) full backup of all of the project’s data and history
+  iii) if the central server fails, local repository can be used to restore the central repository
+  iv) fast emerging
+  v) flexible branching
+  vi) very less merge conflicts
+7) i) Local VCS
+  ii) Centralized VCS
+  iii) Distributed VCS
+8) Git is a version control system that lets the user manage and keep track of data history. GitHub is a cloud-based hosting service that lets the user manage Git repositories
+9) SSH is Secure Shell, it helps in securing the transaction of data between an insecure connection from one computer to another. SSH is also the tool which implements SSH protocol.
+10) Helps in checking the status of the project.
+11) Helps in saving and push all the commits from the local repository to the remote one.
+12) Helps in retaining the latest version of the project that has been saved on remote to the local repository. 
+13) Helps in checking the project’s commit history from the beginning.
+14)  git add –A,  git add –all, git add 
+15) git commit –a, git commit –am
+
