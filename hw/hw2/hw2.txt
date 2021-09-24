@@ -1,0 +1,22 @@
+1) Electronic Numerical Integrator and Computer
+2) 0 and 1 are easy to represent electronically
+3) Register
+4) Disk
+5) Bit
+6) (A) Assembly Language (B) Yes
+7) (A) FORTRAN (B) 1956
+8) (A) Assembly (B) Third Generation
+9) C - 1970s, C++ - 1980s, MATLAB - 1980s, Python - 1990s 
+10) Basic Combine Programming Language  
+11) C
+12) FORTRAN, ABC Programming Language
+13)
+   a) Syntax Error, Eg- SyntaxError: Missing parentheses in call to 'print'
+   b) Runtime Error, Eg- uninitialized memory
+   C) Semantic Error, Eg- Dividing two integers using the regular division operator / in Python 2 and expecting the result to be real
+
+14) Runtime error
+15) 
+   a) reading and writing variables
+   b) finite state machine stimulation
+   c) halt state
