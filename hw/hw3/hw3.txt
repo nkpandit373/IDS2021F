@@ -1,0 +1,21 @@
+1. Aesthetic are the quantifiable features of the resulting graphic that map data values using data visualization. Example: Shapes, colors, etc.
+2. The classes are: a) Representation of Continuous data, b) Representation of Discrete data.
+3. Two major types of data are: 
+	a) Continuous numerical data, Example: 2.6, 11.4, 167.
+	b) Discrete numerical data, Example: 4, 5, 6, 7.
+4. Factors
+5. 	Ordered data Example: stop, wait, go.
+	Unordered data Example: one, hair, food.
+6. Non-linear axis
+7. We can assume that when we illustrate a data regarding growth or decline, visualizing the rate of growth rather than the full population.
+8. Used for data with a periodic nature.
+9. Types of different color scales:
+	1. Quanlitative Color Scale. Used to distinguish between discrete items like countires.
+	2. Sequential Color Scale: Used to represent data values like income.
+	3. Diverging Color Scale: Used to represent data that have a relation with a neutal midpoint.
+	4. Accent Color Scale: Used to represent data that needs particular data highlighted.
+10. No unit specified for density, age should not be less than zero.
+11. Exponential function in first phase. Constant in second phase. 
+12. Purple to Green color.
+13. 
+14. 
